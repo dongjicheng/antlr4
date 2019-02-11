@@ -1,0 +1,12 @@
+DIV=6
+ADD=7
+SUB=8
+NUMBER=2
+MUL=5
+NEWLINE=3
+ID=1
+WS=4
+'-'=8
+'+'=7
+'*'=5
+'/'=6
